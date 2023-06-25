@@ -1,0 +1,50 @@
+body{
+    font-family:'Noto Sans', sans-serif;
+}
+.first-banner{
+   
+}
+.wrapper{
+    display: flex;
+    
+}
+.text{
+    width: 50%;
+    
+    
+}
+.left{
+    align-self: center;
+    padding-left: 50px;
+}
+.linear{
+    color: #FBA24F;
+}
+.text h1{
+    font-size: 50px;
+    font-weight: 500px;
+    color:#575757 ;
+    /* box-shadow: 100px #575757; */
+    
+    
+}
+.text p{
+    color: #828282;
+}
+.btn{
+    padding-top: 40px;
+}
+.text a{
+    text-decoration: none;
+    color: whitesmoke;
+    background-image: linear-gradient(to right, red , orange);
+    padding: 20px 30px;
+    border-radius: 30px;
+
+
+
+}
+.imge-section{}
+.imge-section img{
+    width: 100%;
+}
