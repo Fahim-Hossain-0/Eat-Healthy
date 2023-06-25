@@ -1,11 +1,13 @@
 body{
     font-family:'Noto Sans', sans-serif;
 }
+/* first section start */
 .first-banner{
    
 }
 .wrapper{
     display: flex;
+    padding: 0 5% 80px 5%;
     
 }
 .text{
@@ -15,36 +17,45 @@ body{
 }
 .left{
     align-self: center;
-    padding-left: 50px;
+    /* padding-left: 50px; */
 }
 .linear{
     color: #FBA24F;
 }
-.text h1{
-    font-size: 50px;
+.head-text{font-size: 50px;
     font-weight: 500px;
     color:#575757 ;
-    /* box-shadow: 100px #575757; */
-    
-    
 }
-.text p{
+.p-text{
     color: #828282;
 }
 .btn{
     padding-top: 40px;
 }
-.text a{
+.link{
     text-decoration: none;
     color: whitesmoke;
     background-image: linear-gradient(to right, red , orange);
     padding: 20px 30px;
     border-radius: 30px;
-
-
+}
+.imge-section-1{
 
 }
-.imge-section{}
-.imge-section img{
+.imge-section-1 img{
     width: 100%;
 }
+/*  first section end */
+/* 2nd section star */
+.second-banner{}
+.imge-section-2{}
+.imge-section-2 img{
+    width: 50%;
+}
+.right{
+    align-self: center;
+}
+
+
+
+/* 2nd section end */
