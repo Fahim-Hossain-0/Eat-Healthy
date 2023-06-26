@@ -13,9 +13,7 @@ body{
     
 }
 .text{
-    width: 50%;
-    
-    
+    width: 50%;  
 }
 .left{
     align-self: center;
@@ -98,11 +96,9 @@ body{
     box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
     border-radius: 5%;
     padding: 2%  5% 2% 5%;
-
 }
 
-.box-img{
-    
+.box-img{    
     /* border-radius: 30% 25% 30% 25%; */
     width: 90%;
     align-self: center;
@@ -113,24 +109,24 @@ body{
     color:#18191F;
     
 }
-.p-box{
-    
-}
 /* box  */
 /* flex section */
 .flex{
-    /* align-self: center; */
-  /* margin: 0 auto; */
-  /* width: 60%;   */
-  /* text-align: s; */
+    
+    width: 85%;
+    margin: 0 auto;
+    box-shadow: 20px 10px 20px 0px gray;
+    border-radius: 15px;
+  
 }
 .main{
-    /* padding: 0 5% ; */
-    justify-content: space-between;
+    padding: 0 10% ;
+   
 }
 
 /* flex section */
 footer{
+    margin-top: 100px;
     padding: 30px 0; 
     background-color: black;
     text-align: center;
