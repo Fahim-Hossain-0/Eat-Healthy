@@ -1,5 +1,6 @@
 body{
     font-family:'Noto Sans', sans-serif;
+    margin: 0;
 }
 /* first section start */
 .first-banner{
@@ -116,3 +117,19 @@ body{
     
 }
 /* box  */
+footer{
+    padding: 30px 0; 
+    background-color: black;
+    text-align: center;
+}
+.f-h2{
+    font-size: 30px;
+    font-weight: 700;
+    color: #525659;
+}
+.span{
+    color: orange;
+}
+.f{
+    color: whitesmoke;
+}
